@@ -22,9 +22,6 @@ lime = "^0.2.0.1"
 numpy = "^2.1.2"
 regex = "^2024.9.11"
 
-[tool.poetry.packages]
-name = "nlp_app"
-from = "nlp_app"
 
 
 [tool.poetry.group.dev.dependencies]
