@@ -49,7 +49,7 @@ VADER and TF-IDF Analysis:
 
 
 
-🌐Streamlit Deployment - https://time-series-sentiment-analysis-v1.streamlit.app/
+🚀Streamlit Deployment - https://time-series-sentiment-analysis-v1.streamlit.app/
 
 
 
